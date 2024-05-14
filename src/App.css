@@ -1,0 +1,25 @@
+.ml-custom {
+  margin-left: 465px; 
+}
+.rounded-custom{
+  border-radius: 60px;
+}
+.w-custom{
+  width: 550px;
+}
+.h-custom{
+  height: 200px;
+}
+
+textarea {
+  font-weight: normal; 
+}
+
+textarea::placeholder {
+  font-weight: bold;
+}
+
+input[type="text"] {
+  font-weight: bold;
+}
+
