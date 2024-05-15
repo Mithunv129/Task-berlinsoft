@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-berlinsoft/static/css/main.5bdefe0e.css",
+    "main.js": "/Task-berlinsoft/static/js/main.91413d3a.js",
+    "static/js/453.c24bd70e.chunk.js": "/Task-berlinsoft/static/js/453.c24bd70e.chunk.js",
+    "index.html": "/Task-berlinsoft/index.html",
+    "main.5bdefe0e.css.map": "/Task-berlinsoft/static/css/main.5bdefe0e.css.map",
+    "main.91413d3a.js.map": "/Task-berlinsoft/static/js/main.91413d3a.js.map",
+    "453.c24bd70e.chunk.js.map": "/Task-berlinsoft/static/js/453.c24bd70e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdefe0e.css",
+    "static/js/main.91413d3a.js"
+  ]
+}
